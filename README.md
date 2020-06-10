@@ -7,7 +7,7 @@ This will be a project that I come back to as we learn more in the class to work
 
 The contact page is just html and css with bootstrap. There is no actual fuctionality on the contact page. 
 
-My portfolio page is also lacking at this point since I have not done very many projects, so this will be something else that can expand as we go further through the class.
+My portfolio page is also lacking at this point since I have not done very many projects, so this will be something else that can expand as we go further through the class. I decided to just include the logos of things that we are currently learning for my portfolio right now. 
 
 This is a screen shot of the About Me page. 
 ![](2020-06-09-23-11-43.png)
