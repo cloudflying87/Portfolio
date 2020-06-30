@@ -4,6 +4,8 @@ This is the beginning of my portfolio. I choose to use a template to get this pa
 I look forward to continuing to develop my portfolio as we go through this class. I need to work on updating my resume for this job. 
 
 [My Portfolio](https://cloudflying87.github.io/Portfolio/)
+
+
 [GitHub Portfolio Repo](https://github.com/cloudflying87/Portfolio)
 
-![https://github.com/cloudflying87/Portfolio/blob/master/assets/img/screenshotPortfolio.png](Screenshot of My Portfolio)
+![Screenshot of my Portfolio](https://github.com/cloudflying87/Portfolio/blob/master/assets/img/screenshotPortfolio.png)
