@@ -1,16 +1,9 @@
 # Portfolio
-A responsive portfolio website with 3 separate pages. 
+This is the beginning of my portfolio. I choose to use a template to get this page started. I was able to modify the template to do exactly what I wanted it to do. I think that this is a good example of what I have learned so far in this class. Even though I did not code this from scratch I was able to read and understand what was going on with this template. I am much happier with this portfolio than the first one that I created. 
 
-This was my attempt to follow the wire frame that was given to us for this project. 
+I look forward to continuing to develop my portfolio as we go through this class. I need to work on updating my resume for this job. 
 
-This will be a project that I come back to as we learn more in the class to work on the quality of the responsiveness and update the code to reflect the new things that I have learned. This is a very basic site and the fuctionality is not all there yet. 
+[https://cloudflying87.github.io/Portfolio/](My Portfolio)
+[GitHub Portfolio Repo](https://github.com/cloudflying87/Portfolio)
 
-The contact page is just html and css with bootstrap. There is no actual fuctionality on the contact page. 
-
-My portfolio page is also lacking at this point since I have not done very many projects, so this will be something else that can expand as we go further through the class. I decided to just include the logos of things that we are currently learning for my portfolio right now. 
-
-This is a screen shot of the About Me page. 
-![](2020-06-09-23-11-43.png)
-
-I have included the link for the live site. 
-https://cloudflying87.github.io/Portfolio/
+![/assets/img/screenshotPortfolio.png](2020-06-29-23-32-29.png)
