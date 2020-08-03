@@ -2,6 +2,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/flyhomem/repositories/Portfolio
-    - index.html $DEPLOYPATH
-    - /assets/css/style.css $DEPLOYPATH
-    - /assets/ -R img $DEPLOYPATH
+    - $DEPLOYPATH index.html 
+    - $DEPLOYPATH /assets/css/style.css 
+    - $DEPLOYPATH /assets/ -R img 
