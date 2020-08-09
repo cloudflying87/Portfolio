@@ -2,5 +2,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/flyhomem/public_html/Portfolio
-    - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp -R assets $DEPLOYPATH
+
+    - cp index.html $DEPLOYPATH
+    - cp -R assets $DEPLOYPATH
